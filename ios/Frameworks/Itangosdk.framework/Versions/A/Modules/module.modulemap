@@ -1,0 +1,8 @@
+framework module "Itangosdk" {
+	header "ref.h"
+    header "Itangosdk.objc.h"
+    header "Universe.objc.h"
+    header "Itangosdk.h"
+
+    export *
+}
