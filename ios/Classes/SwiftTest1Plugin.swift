@@ -1,6 +1,5 @@
 import Flutter
 import UIKit
-import Greeting
 import Itangosdk
 
 public class SwiftTest1Plugin: NSObject, FlutterPlugin {
